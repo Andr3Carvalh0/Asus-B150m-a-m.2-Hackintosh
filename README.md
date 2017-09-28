@@ -12,3 +12,6 @@ This repo contains the configuration for the following hardware:
   
 ### GPU
   - Model: AMD RX 470
+
+
+It also contains the C19-3 display profile. To install it you should place the folder named "DisplayVendorID-1ab3" into "/System/Library/Displays/Contents/Resources/Overrides/"

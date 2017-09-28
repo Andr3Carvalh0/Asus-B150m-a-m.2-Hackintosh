@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductID</key>
+	<integer>1394</integer>
+	<key>DisplayProductName</key>
+	<string>C19-3</string>
+	<key>DisplayVendorID</key>
+	<integer>6835</integer>
+	<key>IODisplayEDID</key>
+	<data>
+	AP///////wAas3IFVy8AAA0PAQSlJh5rIiQfoVpJmSUaTFWlTwCBj4GAYU9hQEVPRUAB
+	AQEBMCoAmFEAKkAwcBMAeC0RAAAeAAAA/wBZRUhOMDEyMTE5CiAgAAAA/QA3TB5TDgAK
+	ICAgICAgAAAA/ABDMTktMwogICAgICAgAJc=
+	</data>
+	<key>SwitchResX backuped settings</key>
+	<dict>
+		<key>DisplayProductID</key>
+		<integer>1394</integer>
+		<key>DisplayVendorID</key>
+		<integer>6835</integer>
+	</dict>
+	<key>dspc</key>
+	<array>
+		<data>
+		8CMAiFEAJkA8iDYAAAAAAAAe
+		</data>
+	</array>
+</dict>
+</plist>
