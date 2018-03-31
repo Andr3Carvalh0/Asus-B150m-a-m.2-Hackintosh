@@ -1,5 +1,3 @@
-# Asus-B150m-a-m.2-Hackintosh
-
 This repo contains the configuration for the following hardware:
 
 ### Board
