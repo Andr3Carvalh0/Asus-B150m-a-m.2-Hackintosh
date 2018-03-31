@@ -1,0 +1,1 @@
+To install it you should place the folder named "DisplayVendorID-1ab3" into "/System/Library/Displays/Contents/Resources/Overrides/"
