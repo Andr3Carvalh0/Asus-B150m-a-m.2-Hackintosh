@@ -10,3 +10,6 @@ This repo contains the configuration for the following hardware:
   
 ### GPU
   - Model: AMD RX 470
+
+#### Notes
+  - This doesnt contain the configurations needed to support the new APFS, it only supports HFS. If you need to you can download the APFS.efi and put it in drivers64UEFI folder.
