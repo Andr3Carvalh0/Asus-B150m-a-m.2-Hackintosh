@@ -169,11 +169,9 @@
 		<key>Hide</key>
 		<array>
 			<string>\EFI\BOOT\BOOTX64.EFI</string>
-			<string>\EFI\ubuntu\grubx64.efi</string>
 			<string>Windows</string>
-			<string>Recovery HD</string>
 			<string>Recovery</string>
-			<string>ubuntu EFI</string>
+			<string>Preboot</string>
 		</array>
 		<key>Language</key>
 		<string>en:0</string>
